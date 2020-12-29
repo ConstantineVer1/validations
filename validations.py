@@ -1,5 +1,5 @@
 #!/usr/bin/env python3
-
+#Adds this comment just for the training purpose 
 
 def vailidate_user(username, minlen):
     """Checks if the recieved username matches the required conditions."""
